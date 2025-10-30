@@ -39,4 +39,4 @@ O projeto foi organizado utilizando a estrutura padrão do Maven.
 ### Tecnologias Utilizadas
 - Java 11: Linguagem de programação principal.
 - Maven 3.8+: Ferramenta de automação de build e gerenciamento de dependências.
-- JUnit 5: Framework para a escrita e execução de testes unitários.
+- JUnit 5: Framework para a escrita e execução de testes unitários
